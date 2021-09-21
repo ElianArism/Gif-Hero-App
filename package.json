@@ -1,5 +1,6 @@
 {
-  "name": "05-gif-expert-app",
+  "name": "gif-expert-app",
+  "author": "Arismendi Elian <elianarism@gmail.com> https://www.linkedin.com/in/elian-arismendi/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
