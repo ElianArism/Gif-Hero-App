@@ -8,7 +8,7 @@ export const GifExpertApp = () => {
   return (
     <>
       <h1 className="animate__animated animate__bounceInLeft">
-        <i>Gif Expert App</i>
+        <i>Gif Hero!</i>
       </h1>
       <AddCategory
         // Pueden pasarse funciones como props
