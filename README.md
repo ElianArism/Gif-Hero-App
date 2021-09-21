@@ -1,7 +1,7 @@
 # Gif Expert App
 An application that allows you to view different gifs, search for new ones and go to their url to download them.
 
-* App in production:
+* App in production: https://blissful-almeida-904e77.netlify.app/
 
 # Useful commands
 
